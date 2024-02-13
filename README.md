@@ -22,7 +22,7 @@
   
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
 ## Sobre mim
 Sou um desenvolvedor front-end apaixonado por criar experiências de usuário interativas e envolventes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades e conhecimentos em desenvolvimento web
 
