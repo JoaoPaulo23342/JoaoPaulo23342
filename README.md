@@ -6,7 +6,7 @@
 
 
 
-![JoaoPaulo23342 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo23342&show_icons=true&theme=dracula&count_private=true)
+![JoaoPaulo23342 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo23342&show_icons=true&theme=synthwave&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
