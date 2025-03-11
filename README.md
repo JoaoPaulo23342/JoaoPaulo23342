@@ -33,6 +33,7 @@
 <a >
 <img align="center"  
 </a>
+<br>
 
 
 <a  href="https://www.linkedin.com/in/joao-paulo-01b137315/" target=_blank>
