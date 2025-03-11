@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![snake gif](https://github.com/JoaoPaulo23342//blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JoaoPaulo23342/https://github.com/JoaoPaulo23342/JoaoPaulo23342.git/blob/output/github-contribution-grid-snake.svg)
 
 
 
