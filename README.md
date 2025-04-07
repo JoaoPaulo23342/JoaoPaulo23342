@@ -85,15 +85,23 @@
 
 </div>
 
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
+
+### ✍️ Random Dev Quote
+<br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+<div align="center">
   
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 <br>
 <p align="centre"><b>Visitors Count</b></p> 
 <br>
