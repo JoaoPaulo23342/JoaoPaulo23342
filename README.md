@@ -4,18 +4,8 @@
 <br>
 <br>
 
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoaoPaulo23342&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoaoPaulo23342&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPaulo23342&show_icons=true" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPaulo23342&theme=dark&hide_border=false" alt="Estatísticas de Streak" />
 </div>
 
 
