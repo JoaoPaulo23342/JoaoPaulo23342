@@ -52,6 +52,7 @@
 </div>
 
 ### Main skills:
+<br>
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://skillicons.dev/icons?i=javascript">
 
