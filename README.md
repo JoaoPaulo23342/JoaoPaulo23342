@@ -53,7 +53,7 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img align="left" height="84" width="84" src="https://skillicons.dev/icons?i=javascript">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
@@ -63,9 +63,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=php">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=git">
 
 
 
@@ -85,6 +85,7 @@
 <div align="left"> 
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
