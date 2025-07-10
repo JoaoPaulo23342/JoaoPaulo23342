@@ -98,6 +98,8 @@
 
 <img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=express">
 
+<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=tailwind">
+
 
 
 
