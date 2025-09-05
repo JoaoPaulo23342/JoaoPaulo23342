@@ -56,6 +56,7 @@
 ### Main skills:
 <br>
 <div align="left"> 
+<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=typescript">
 <img align="left" height="84" width="84" src="https://skillicons.dev/icons?i=javascript">
 
 <img align="left" height="80" width="80" src="https://skillicons.dev/icons?i=css">
@@ -95,7 +96,7 @@
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
 
-<img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=typescript">
+
 
 <img align="left"  height="80" width="80" src="https://skillicons.dev/icons?i=tailwind">
 
