@@ -126,7 +126,7 @@
 <p align="centre"><b>Visitors Count</b></p> 
 <br>
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/JoaoPaulo23342?tab=overview&from=2024-11-01&to=2024-11-01&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/JpauloResende?tab=overview&from=2024-11-01&to=2024-11-01&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
